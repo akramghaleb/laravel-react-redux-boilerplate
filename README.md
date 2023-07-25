@@ -68,3 +68,5 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## References
 
 <a href="https://medium.com/@demian.kostelny/set-up-laravel-app-with-inertia-js-react-js-and-vite-js-60f1f5fb8b73">Set up Laravel app with Inertia.js, React.js, and Vite.js</a>
+
+<a href="https://react-redux.js.org/tutorials/quick-start">Install Redux Toolkit and React Redux</a>
